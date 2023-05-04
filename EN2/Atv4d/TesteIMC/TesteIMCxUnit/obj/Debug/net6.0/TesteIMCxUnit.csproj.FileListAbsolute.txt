@@ -1,0 +1,6 @@
+C:\Users\gabi_\OneDrive\Área de Trabalho\T13TestesBack\EN2\Atv4e\TesteIMC\TesteIMCxUnit\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\gabi_\OneDrive\Área de Trabalho\T13TestesBack\EN2\Atv4e\TesteIMC\TesteIMCxUnit\obj\Debug\net6.0\TesteIMCxUnit.csproj.AssemblyReference.cache
+C:\Users\gabi_\OneDrive\Área de Trabalho\T13TestesBack\EN2\Atv4e\TesteIMC\TesteIMCxUnit\obj\Debug\net6.0\TesteIMCxUnit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabi_\OneDrive\Área de Trabalho\T13TestesBack\EN2\Atv4e\TesteIMC\TesteIMCxUnit\obj\Debug\net6.0\TesteIMCxUnit.AssemblyInfoInputs.cache
+C:\Users\gabi_\OneDrive\Área de Trabalho\T13TestesBack\EN2\Atv4e\TesteIMC\TesteIMCxUnit\obj\Debug\net6.0\TesteIMCxUnit.AssemblyInfo.cs
+C:\Users\gabi_\OneDrive\Área de Trabalho\T13TestesBack\EN2\Atv4e\TesteIMC\TesteIMCxUnit\obj\Debug\net6.0\TesteIMCxUnit.csproj.CoreCompileInputs.cache
